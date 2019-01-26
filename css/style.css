@@ -930,7 +930,7 @@ div#preloader {
 }
 
 .team-img>a::after {
-  background: rgba(0, 0, 0, 0.70);
+  background: rgba(0, 0, 0, 00);
   bottom: 0;
   content: "";
   height: 100%;
@@ -1853,7 +1853,7 @@ div#preloader {
 
 .copyright>p {
   margin-bottom: 0;
-  color: #333;
+  color: #444;
 }
 
 .copyright a, .credits a {
